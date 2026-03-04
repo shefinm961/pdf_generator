@@ -1,2 +1,3 @@
 # pdf_generator
-its a simple pdf generator
+its a simple pdf generator using python
+
